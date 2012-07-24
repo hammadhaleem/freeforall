@@ -1,0 +1,14 @@
+div.box
+{
+style:inset;
+width:220px;
+padding:10px;
+border:0px solid black;
+margin:0px;
+}
+/*
+  body {
+        background: url('kal-pattern.gif') repeat;
+        background-attachment: fixed;
+      }
+*/

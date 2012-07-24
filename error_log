@@ -1,0 +1,6 @@
+[13-Jul-2012 04:11:38] OAuthException: Error validating access token: Session has expired at unix time 1342152000. The current unix time is 1342167103.
+[13-Jul-2012 12:49:20] OAuthException: An active access token must be used to query information about the current user.
+[13-Jul-2012 12:49:32] OAuthException: An active access token must be used to query information about the current user.
+[13-Jul-2012 12:50:03] OAuthException: An active access token must be used to query information about the current user.
+[13-Jul-2012 12:50:15] OAuthException: An active access token must be used to query information about the current user.
+[13-Jul-2012 13:29:56] OAuthException: An active access token must be used to query information about the current user.
