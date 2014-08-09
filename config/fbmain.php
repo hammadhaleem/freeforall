@@ -1,6 +1,6 @@
 <?php
-    $fbconfig['appid' ] = "355087481227235";
-    $fbconfig['secret'] = "c345d53328af79c9d6876aee0b3a70a4";
+    $fbconfig['appid' ] = "3xxxxxxxxxxxxxxxxxx5";
+    $fbconfig['secret'] = "c34xxxxxxxxxxxxxxxxxxxxa4";
 
     $fbconfig['baseUrl']    =   "https://freeforall.herokuapp.com/";
     $fbconfig['appBaseUrl'] =   "http://apps.facebook.com/moviepie/";
@@ -40,7 +40,7 @@
     // on whether the user is logged in.
     // If we have a $user id here, it means we know 
     // the user is logged into
-    // Facebook, but we don’t know if the access token is valid. An access
+    // Facebook, but we donâ€™t know if the access token is valid. An access
     // token is invalid if the user logged out of Facebook.
     
     $loginUrl   = $facebook->getLoginUrl(
